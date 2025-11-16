@@ -1,0 +1,1178 @@
+[
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.0,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "chin_rest",
+      "touch_nose",
+      "hands_clasped",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.28,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.46,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.66,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.81,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.97,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.13,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.27,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.43,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.55,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.68,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.81,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.93,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.04,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.2,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.34,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.48,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.6,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.73,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.87,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.98,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.1,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.23,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.35,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.48,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.62,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.77,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.92,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.03,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.17,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.31,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.45,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.58,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.75,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.89,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.0,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.14,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.32,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.49,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.68,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.88,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.1,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.31,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.53,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.73,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.92,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.14,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.37,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.51,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.62,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.76,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.9,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.03,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.14,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.28,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.41,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.55,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.68,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.8,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.93,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.04,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.18,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.31,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.44,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.6,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.74,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.87,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.99,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.12,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.24,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.38,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.51,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.63,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.77,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.88,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.99,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.15,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.3,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.47,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.62,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.75,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.86,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.0,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.18,
+    "actions": [
+      "touch_face",
+      "lean_forward",
+      "arms_crossed",
+      "fix_hair",
+      "hands_clasped",
+      "chin_rest",
+      "touch_nose",
+      "fidget_hands"
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "time": "00:00",
+    "timestamp_seconds": 0.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:01",
+    "timestamp_seconds": 1.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:02",
+    "timestamp_seconds": 2.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:03",
+    "timestamp_seconds": 3.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:04",
+    "timestamp_seconds": 4.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:05",
+    "timestamp_seconds": 5.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:06",
+    "timestamp_seconds": 6.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:07",
+    "timestamp_seconds": 7.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": [
+      "We're from Spain, Spain, Spain, Spain, Spain."
+    ]
+  },
+  {
+    "time": "00:08",
+    "timestamp_seconds": 8.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:09",
+    "timestamp_seconds": 9.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:10",
+    "timestamp_seconds": 10.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:11",
+    "timestamp_seconds": 11.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": []
+  },
+  {
+    "time": "00:12",
+    "timestamp_seconds": 12.0,
+    "actions": [
+      "arms_crossed",
+      "chin_rest",
+      "fidget_hands",
+      "fix_hair",
+      "hands_clasped",
+      "lean_forward",
+      "touch_face",
+      "touch_nose"
+    ],
+    "texts": [
+      "I'm not that kind of person.",
+      "If I'm not that kind of person, I'm not that kind of person."
+    ]
+  }
+]
